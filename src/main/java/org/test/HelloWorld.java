@@ -2,6 +2,6 @@ package org.test;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("New commit for promote test");
+        System.out.println("New commit for promote test 2");
     }
 }
